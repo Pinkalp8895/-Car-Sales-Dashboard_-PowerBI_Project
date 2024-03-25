@@ -1,4 +1,4 @@
-# Car-Sales-Dashboard_-PowerBI_Project
+# Car-Sales-Dashboard_PowerBI_Project
 
 Description: The data was given to track and analyze the sales performance of a car dealership company that sells different models of cars. So, the data was about customer name, income, gender, dealer name, company, model, engine, transmission, color, price, body style, etc.
 
